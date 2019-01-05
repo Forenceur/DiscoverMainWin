@@ -3,6 +3,16 @@
 
 #include <QMainWindow>
 #include <QWidget>
+#include <QLayout>
+#include <QFormLayout>
+#include <QLineEdit>
+#include <QMdiArea>
+#include <QTextEdit>
+#include <QMdiSubWindow>
+#include <QAction>
+#include <QMenuBar>
+#include <QApplication>
+#include <QToolBar>
 
 class MainWin : public QMainWindow
 {
